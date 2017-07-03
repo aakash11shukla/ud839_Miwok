@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[app] - ...\app\src\main\res\values\list_item.xml'" />
-    <option name="defaultScopeName" value="File '[app] - ...\app\src\main\res\values\list_item.xml'" />
-    <option name="SEARCH_SCOPE" value="File '[app] - ...\app\src\main\res\values\list_item.xml'" />
+    <option name="customScope" value="File '[app] - ...\app\src\main\res\layout\activity_main.xml'" />
+    <option name="defaultScopeName" value="File '[app] - ...\app\src\main\res\layout\activity_main.xml'" />
+    <option name="SEARCH_SCOPE" value="File '[app] - ...\app\src\main\res\layout\activity_main.xml'" />
   </component>
 </application>
